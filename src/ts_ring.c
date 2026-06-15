@@ -35,3 +35,5 @@ int push(ring_buffer_t *r, unsigned char c) {
 
         return 0;
 }
+
+int main() {}

@@ -142,3 +142,5 @@ class VFS {
                 return it->second->get_size();
         }
 };
+
+int main() {}

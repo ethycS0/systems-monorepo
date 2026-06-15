@@ -57,3 +57,5 @@ void broker::publish(std::string topic_name, std::any payload) {
                 c.callback(payload);
         }
 }
+
+int main() {}

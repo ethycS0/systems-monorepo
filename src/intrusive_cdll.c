@@ -25,3 +25,5 @@ void add_tail(list_node *new_node, list_node *head) {
         head->prev->next = new_node;
         head->prev = new_node;
 }
+
+int main() {}

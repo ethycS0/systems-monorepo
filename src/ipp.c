@@ -47,3 +47,5 @@ int execute_pipeline(char *cmd1[], char *cmd2[]) {
 
         return 0;
 }
+
+int main() {}
